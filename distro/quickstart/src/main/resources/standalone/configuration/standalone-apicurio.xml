@@ -41,8 +41,8 @@
     </extensions>
     
     <system-properties>
-        <property name="apicurio.kc.auth.rootUrl" value="https://studio-auth.apicur.io/auth"/>
-        <property name="apicurio.kc.auth.realm" value="apicurio-local"/>
+        <property name="apicurio.kc.auth.rootUrl" value="http://localhost:8080/auth"/>
+        <property name="apicurio.kc.auth.realm" value="apicurio"/>
         <property name="apicurio.hub.storage.jdbc.type" value="h2"/>
         <property name="apicurio.hub.storage.jdbc.init" value="true"/>
     </system-properties>
