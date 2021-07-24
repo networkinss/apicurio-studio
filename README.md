@@ -1,7 +1,7 @@
 ![Verify Build Workflow](https://github.com/Apicurio/apicurio-studio/workflows/Verify%20Build%20Workflow/badge.svg)
 
 # The apicurio-studio project (Open Source API Design Studio)
-
+# Fork from International Network Support & Service - Glas and Virtualan Software
 ## Summary
 
 This is the official Git repository for the apicurio studio project:  http://www.apicur.io/
@@ -38,8 +38,8 @@ The following command compiles all the code, installs the JARs into your local M
 ```
 ## Quickstart (i.e. How To Run It)
 
-The fastest way to get started using Apicurio Studio is to use the quickstart.  The Apicurio quickstart is produced as part 
-of the full maven build - you can find it in `distro/quickstart/target` as a ZIP file.  To start up the quickstart, use the 
+The fastest way to get started using Apicurio Studio is to use the quickstart.  The Apicurio quickstart is produced as part
+of the full maven build - you can find it in `distro/quickstart/target` as a ZIP file.  To start up the quickstart, use the
 following commands from the top-level of the repository:
 
 ```bash
